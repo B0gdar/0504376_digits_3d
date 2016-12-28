@@ -9,4 +9,5 @@ The main files that can be found are
 - parsing.m: Matlab function which allows to collect all the samples from individual files captured by LeapMotion sensor in a cell cointaining all the data samples and points and the correspondent class vector.
 
 NOTE: IF MATLAB DOES NOT RECOGNIZE BY DEFEULT INTERNAL FOLDER OF THE PATH, PLEASE SELECT THE training_data FOLDER RIGHT CLIK AND INCLUDE SELECTED FOLDER
+
 These files were made in December of 2016 and no forward maintenance and development is going to be made.
